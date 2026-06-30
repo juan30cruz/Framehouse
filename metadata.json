@@ -1,0 +1,6 @@
+{
+  "name": "Framehouse",
+  "description": "Producción audiovisual para propiedades de lujo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
